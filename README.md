@@ -1,6 +1,14 @@
 # goshell: Go Shell 
 A simple wrapper over os/exec to run shell command using `"sh -c"`.
 
+## Testing
+
+```bash
+$ go test
+PASS
+ok  	github.com/miteshbsjat/goshell	0.005s
+```
+
 ## Installation
 
 ```bash
